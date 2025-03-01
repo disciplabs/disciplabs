@@ -13,19 +13,26 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=disciplabs)
+![Metrics](https://github-metrics.lecoq.io/disciplabs)
+![Snake animation](https://github.com/disciplabs/disciplabs/blob/output/github-contribution-grid-snake.svg)
+
+
 -->
 #### Esta é a página do projeto disciplabs! 👋🚀  
 ###### Nosso foco está em tecnologia, apaixonados por ciência de dados, business intelligence, inteligencia artificial e desenvolvimento de software!
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=disciplabs&repo=labin&theme=dark)](https://github.com/disciplabs/labin) 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=disciplabs&repo=lae1&theme=dark)](https://github.com/disciplabs/lae1)
 
+disciplabs/requirements_ai_development
 
 
 #### 📊 GitHub Stats
-![disciplabs' GitHub Stats](https://github-readme-stats.vercel.app/api?username=disciplabs&show_icons=true&theme=dark) 
-![GitHub Streak](https://streak-stats.demolab.com/?user=disciplabs&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=disciplabs&layout=compact&theme=dark)
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=disciplabs&theme=darkhub)
-
+![disciplabs' GitHub Stats](https://github-readme-stats.vercel.app/api?username=disciplabs&show_icons=true&theme=dark) ![GitHub Streak](https://streak-stats.demolab.com/?user=disciplabs&theme=dark)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=disciplabs&theme=darkhub) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=disciplabs&layout=compact&theme=dark) ![Rank](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=disciplabs&theme=github_dark)
 
 ### 👨‍💻 Codando com conexão integrada de equipes, pessoas, paixão e café ☕
 
@@ -78,4 +85,8 @@ Here are some ideas to get you started:
 - 📜 AWS Certified Cloud Practitioner
 - 📜 Microsoft Azure Data Fundamentals
 - 📜 Google Data Analytics
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=disciplabs&theme=github-dark)
+![Profile Views](https://komarev.com/ghpvc/?username=disciplabs&color=blue)
+
 
