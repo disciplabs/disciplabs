@@ -14,16 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### Olá, esta é a página do projeto disciplabs! 👋🚀  
+#### Esta é a página do projeto disciplabs! 👋🚀  
 ###### Nosso foco está em tecnologia, apaixonados por ciência de dados, business intelligence, inteligencia artificial e desenvolvimento de software!
 
 
 
 
 #### 📊 GitHub Stats
-![disciplabs' GitHub Stats](https://github-readme-stats.vercel.app/api?username=disciplabs&show_icons=true&theme=dark) ![GitHub Streak](https://streak-stats.demolab.com/?user=disciplabs&theme=dark)
-[![trophy](https://github-profile-trophy.vercel.app/?disciplabs=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+![disciplabs' GitHub Stats](https://github-readme-stats.vercel.app/api?username=disciplabs&show_icons=true&theme=dark) 
+![GitHub Streak](https://streak-stats.demolab.com/?user=disciplabs&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=disciplabs&layout=compact&theme=dark)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=disciplabs&theme=darkhub)
+
 
 ### 👨‍💻 Codando com conexão integrada de equipes, pessoas, paixão e café ☕
 
@@ -77,4 +79,3 @@ Here are some ideas to get you started:
 - 📜 Microsoft Azure Data Fundamentals
 - 📜 Google Data Analytics
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=disciplabs&theme=darkhub)
