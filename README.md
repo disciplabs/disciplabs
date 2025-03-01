@@ -30,9 +30,9 @@ disciplabs/requirements_ai_development
 
 
 #### 📊 GitHub Stats
-![disciplabs' GitHub Stats](https://github-readme-stats.vercel.app/api?username=disciplabs&show_icons=true&theme=dark) ![GitHub Streak](https://streak-stats.demolab.com/?user=disciplabs&theme=dark)
+![disciplabs' GitHub Stats](https://github-readme-stats.vercel.app/api?username=disciplabs&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=disciplabs&layout=compact&theme=dark) ![GitHub Streak](https://streak-stats.demolab.com/?user=disciplabs&theme=dark)
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=disciplabs&theme=darkhub) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=disciplabs&layout=compact&theme=dark) ![Rank](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=disciplabs&theme=github_dark)
+ ![Rank](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=disciplabs&theme=github_dark)
 
 ### 👨‍💻 Codando com conexão integrada de equipes, pessoas, paixão e café ☕
 
